@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\obj\Debug\netcoreapp2.1\Calculator_Nishi.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\obj\Debug\netcoreapp2.1\Calculator_Nishi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\obj\Debug\netcoreapp2.1\Calculator_Nishi.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\obj\Debug\netcoreapp2.1\Calculator_Nishi.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\bin\Debug\netcoreapp2.1\Calculator_Nishi.deps.json
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\bin\Debug\netcoreapp2.1\Calculator_Nishi.runtimeconfig.json
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\bin\Debug\netcoreapp2.1\Calculator_Nishi.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\bin\Debug\netcoreapp2.1\Calculator_Nishi.dll
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\bin\Debug\netcoreapp2.1\Calculator_Nishi.pdb
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\obj\Debug\netcoreapp2.1\Calculator_Nishi.dll
+C:\Users\Asus\source\repos\Calculator_Nishi\Calculator_Nishi\obj\Debug\netcoreapp2.1\Calculator_Nishi.pdb
