@@ -7,7 +7,8 @@ namespace Calculator_Nishi
         static void Main(string[] args)
         {
            
-
+			//COMMENT
+			Console.log("welcome");
 
             while(true)
             {
