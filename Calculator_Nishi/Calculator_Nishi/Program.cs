@@ -9,6 +9,8 @@ namespace Calculator_Nishi
            
 			//COMMENT
 			Console.log("welcome");
+			Console.log("change");
+			Console.log("change");
 
             while(true)
             {
